@@ -1,0 +1,1 @@
+Tipe data atau data type, adalah atribut yang terkait dengan sepotong data yang bisa memberi tahu sistem komputer cara untuk menafsirkan nilainya. contoh : integer, char, float, string
